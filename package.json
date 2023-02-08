@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://powerhair.github.io/react-quiz-app",
+  "homepage": "https://powerhair.github.io/quiz-react",
   "eslintConfig": {
     "extends": [
       "react-app",
