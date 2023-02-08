@@ -1,0 +1,25 @@
+.App {
+  background-color: #32213a;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 320px;
+  height: 600px;
+  padding: 30px 20px;
+  box-shadow: 10px 10px 42px 0px #32213a;
+  border-radius: 10px;
+  margin: 20px 0 20px 0;
+}
+button {
+  cursor: pointer;
+  background-color: rgb(243, 243, 203);
+  color: #32213a;
+  border: none;
+  padding: 5px;
+  border-radius: 7px;
+  font-size: 18px;
+  font-weight: bold;
+  width: 100%;
+}
